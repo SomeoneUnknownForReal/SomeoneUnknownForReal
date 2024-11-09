@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SomeoneUnknownForReal
-- 👀 I’m interested in programing stuff lol
-- 🌱 I’m currently learning how do I make my own fnf engine by modding psych engine source code
+Hi, I'm a typical human being. I am still learning how to code and use this thing
 
 <!---
 SomeoneUnknownForReal/SomeoneUnknownForReal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
